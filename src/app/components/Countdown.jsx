@@ -72,7 +72,7 @@ export default function Countdown({ birthdayDate, onComplete }) {
                         filter: "drop-shadow(0 0 25px rgba(236, 72, 153, 0.3))",
                     }}
                 >
-                    Birthday Countdown
+                    Shalini Gupta Birthday Countdown
                 </motion.h1>
                 <p className="text-lg text-purple-300">The magical moment approaches...</p>
             </motion.div>
