@@ -22,7 +22,7 @@ Thank you for being the wonderful, amazing, absolutely fantastic person that you
 Happy Birthday, beautiful soul! 🎂✨
 
 With all my love and warmest wishes,
-Forever Yours 💕`
+Forever Yours Panda💕` 
 
     useEffect(() => {
         if (showText) {
