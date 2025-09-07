@@ -211,7 +211,7 @@ export default function HappyBirthday({ onNext }) {
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ delay: 1 }}
                 >
-                    Happy Birthday
+                    Happy Birthday Shalini Gupta
                 </motion.h1>
 
                 <motion.h2
